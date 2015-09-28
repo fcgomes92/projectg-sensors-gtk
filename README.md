@@ -7,8 +7,14 @@
 <ul>
  <li>Glade (https://glade.gnome.org/) - Used to build the software interface.</li>
 </ul>
-<b>Libs:</b>
+<br>
+<b>Python Libs:</b>
 <ul>
  <li>PyGI (https://wiki.gnome.org/action/show/Projects/PyGObject?action=show&redirect=PyGObject)</li>
  <li>Python built-in threading and subprocess</li>
+</ul>
+<br>
+<b>Linux Libs:</b>
+<ul>
+ <li>lm-sensors (https://wiki.archlinux.org/index.php/Lm_sensors)</li>
 </ul>
